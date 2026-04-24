@@ -1,4 +1,6 @@
 # Waveshare ESP32-S3-Touch-LCD-2: Precision Current Monitor & Logger
+<img width="229" height="176" alt="20260422_074012" src="https://github.com/user-attachments/assets/eaa5cbdb-b4ab-41e9-8ea9-1af4b2073ceb" />
+
 
 A professional-grade, high-visibility directional current monitoring instrument and data logger built for the Waveshare ESP32-S3-Touch-LCD-2 development board and the INA219 sensor.
 
